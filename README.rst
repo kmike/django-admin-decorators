@@ -64,7 +64,7 @@ Development
 
 Development happens at
 `bitbucket <https://bitbucket.org/kmike/django-admin-decorators>`_ and
-`github <https://github.org/kmike/django-admin-decorators>`_.
+`github <https://github.com/kmike/django-admin-decorators>`_.
 
 If you've found a bug or have an idea for new decorator feel free to open
 a ticket and/or send a pull request.
