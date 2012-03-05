@@ -43,7 +43,7 @@ Usage
         @boolean
         @short_description('The text is huge')
         def has_huge_text(self, obj):
-            return len(text) > 100
+            return len(obj.text) > 100
 
         @short_description('link')
         @order_field('url')
